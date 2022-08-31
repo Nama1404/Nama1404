@@ -1,6 +1,6 @@
 ### Hello everyone, thank you for visiting my Github!!! 👋
 ## Mọi người nhớ là khi npm i xong (có thể sẽ mất 10p vì package update khá nhiều vì tránh lỗi nên là hãy kiên nhẫn nhé!!! Tránh mất kiểm soát) rồi npm start nhé (đặc biệt cấm tuyệt đối npm audit fix tránh xảy ra tình trạng lỗi, tôi sẽ update package thường xuyên để ko bị lỗi <3
-## I'm [J-JRT!](https://www.facebook.com/NHD.JRT.262) 👋
+## I'm [Nama!](https://www.facebook.com/nguyennamanh14042006) 👋
 <h1 align="center">
     <img src="home/img.svg"/>
 </h1>
@@ -24,10 +24,10 @@
 ![Hello](home/hello.svg)
 # 🤝🏻 Connect with Me
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/hd.jrt.2k3" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a>    
-&nbsp; <a href="https://github.com/J-JRT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.facebook.com/NHD.JRT.262" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:lehonguyen2k3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+&nbsp; <a href="https://www.instagram.com/_nama.1404_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a>    
+&nbsp; <a href="https://github.com/Nama1404" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://www.facebook.com/nguyennamanh14042006" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="mailto:namanhminecraft916@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
 <br>
 <a href="#" target="_blank">
